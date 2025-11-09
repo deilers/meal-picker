@@ -24,4 +24,4 @@ for i in range(1, 5):
     meals.remove(meal_1)
     meals.remove(meal_2)
 
-    print(f'Week {i}: [{meal_1}] and [{meal_2}]')
+    print(f'Week {i}: {meal_1}, and {meal_2}')
